@@ -8,6 +8,7 @@ An AI-driven, real-time Intrusion Detection System (IDS) dashboard. Anomaly-x le
 
 
 
+
 ## Features
 
 - **Live Anomaly Detection**: Uses a Random Forest classifier to instantly evaluate network packets.
